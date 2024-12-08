@@ -1,6 +1,6 @@
 # Open-Foam-Simulation-CFD
 
-**This work contains CFD Simulation of the classic case of flow past rectangular plate in a modified form.**
+**This study presents a CFD simulation of the modified flow past a rectangular plate, analyzing a classic case with innovative adjustments.**
 
 **Result** : </br>
 Contains the vector plots and streamline of the simulation at a particular time i.e. t = 30 sec.</br>
